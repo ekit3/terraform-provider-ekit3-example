@@ -1,4 +1,4 @@
-package courses
+package provider
 
 import (
 	"context"
